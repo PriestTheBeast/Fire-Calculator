@@ -3,4 +3,4 @@ A tool to easily and visually explore/understand the impact of decisions in long
 Calculates an estimate of when will someone reach "Financial Independence" (dividends from investment > expenses). 
 
 Made using React and Material-UI.
-[Open App](www.priestthebeast-firecalculator.netlify.app/)
+[Open App](https://priestthebeast-firecalculator.netlify.app/)
